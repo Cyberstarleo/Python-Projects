@@ -1,2 +1,1 @@
-# Python-Projects
-Customer Statistical Analysis Using Python
+# Python_Customer_Analysis
