@@ -1,5 +1,5 @@
 # Python_Customer_Analysis
-Customer Data Analysis — Python Project
+Customer Data Analysis —
 A simple Python-based analysis to understand customer demographics and spending behavior, helping businesses make smarter pricing and marketing decisions.
  
 Key Insights
